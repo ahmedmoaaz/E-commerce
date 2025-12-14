@@ -1,3 +1,6 @@
-# E-commerce
+# E-commerce with Admin Dashboard 
 
-br 
+# Built on  React.js, Stripe, Node.js, Redis
+
+
+
